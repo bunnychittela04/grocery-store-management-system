@@ -1,5 +1,5 @@
-# Grocery Management System
-The Grocery Management System is a comprehensive solution for efficiently managing and organizing a grocery store's operations. It provides an integrated platform that combines both frontend and backend technologies to streamline various processes related to inventory management, customer interactions, and order tracking. This README file provides an overview of the project, its features, and how to set it up for local development.
+# Grocery Store Management System
+The Grocery store Management System is a comprehensive solution for efficiently managing and organizing a grocery store's operations. It provides an integrated platform that combines both frontend and backend technologies to streamline various processes related to inventory management, customer interactions, and order tracking. This README file provides an overview of the project, its features, and how to set it up for local development.
 
 # Features
 - User-Friendly Interface: The frontend of the system is built using HTML, CSS, JavaScript, and Bootstrap, ensuring an intuitive and responsive user interface for both customers and store administrators.
@@ -34,8 +34,8 @@ Open the server.py file in your project and update the database connection confi
 
 DATABASE_CONFIG = {
     'localhost': '127.0.0.1',
-    'user': 'your_username',
-    'password': 'your_password',
+    'user': 'root',
+    'password': 'Amara@123',
     'database': 'grocery_store'
 }
 
